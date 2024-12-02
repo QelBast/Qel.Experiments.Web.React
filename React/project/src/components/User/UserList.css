@@ -1,0 +1,11 @@
+.user-list {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.user-item {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 1vh;
+}
